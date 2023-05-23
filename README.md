@@ -25,7 +25,7 @@ Recording things i've done which don't go under [Publications](https://tomstaffo
 
 2023-02-01 and forever: taking part in [UCU strike action](https://mastodon.online/@tomstafford/109788334770383538)
 
-2023-01-24 Attended launch of [N8 Research Partnership stands up for researchers with new Rights Retention statement](https://www.n8research.org.uk/n8-research-partnership-rights-retention-statement/
+2023-01-24 Attended launch of [N8 Research Partnership stands up for researchers with new Rights Retention statement](https://www.n8research.org.uk/n8-research-partnership-rights-retention-statement/)
 
 2023-01-17 Celebrating [https://www.researchprofessional.com/0/rr/news/uk/universities/2023/1/University-of-Sheffield-approves-policies-to-bolster-open-research.html](University of Sheffield announcing rights retention policy)
 
@@ -38,6 +38,6 @@ Recording things i've done which don't go under [Publications](https://tomstaffo
 2023-01-05 [Christmas message 2022](https://tomstafford.sites.sheffield.ac.uk/news/christmas-message-2022)
 
 2023-01-01 [Archive of tweets 2008-2022](https://idiolect.org.uk/tweets/)
-## More
+
 
 
