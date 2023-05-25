@@ -13,7 +13,7 @@ Recording things i've done which don't go under [Publications](https://tomstaffo
 
 <https://tomstafford.github.io/editors/>
 
-2023-05-18 Chaired UKRN/RoRI panel on [The Future of Peer Review](https://www.ukrn.org/event/future-of-peer-review-may2023/). [Recording](https://www.youtube.com/channel/UC_gar6y864eLGfX7zJSWd5w) 
+2023-05-18 Chaired UKRN/RoRI panel on [The Future of Peer Review](https://www.ukrn.org/event/future-of-peer-review-may2023/). [Recording](https://youtu.be/BMeSh6esehE), [Slides](https://osf.io/ce3ts/) 
 
 2023-05-10 Cited in Science, Innovation and Technology Committee report on [Reproducibility and research integrity](https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/101/summary.html). Written evidence:[Commercial involvement in academic publishing is key to research reliability and should face greater public scrutiny](https://osf.io/preprints/metaarxiv/rjmvh)
 
